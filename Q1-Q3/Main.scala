@@ -10,13 +10,13 @@ object Main {
     val g: Float = 4.0F
     val c: Char = 'X'
 
-    println(k+12*m)
-    println(m/j)
-    println(n%j)
-    println(m/(j*j))
-    println(f+(10*5)+g)
+    println(k+12*m)  //62
+    println(m/j)           //2
+    println(n%j)       //1
+    println(m/(j*j))      //1
+    println(f+(10*5)+g)        //66.0
     i+=1        //SCALA doesn't support ++i or i++ then we have to use that way
-    println(i*n)
+    println(i*n)       //15
 
 
   }
