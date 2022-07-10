@@ -1,0 +1,12 @@
+Scala------------------
+	1.Scala is less readable due to nested code
+	2.Scala is support operator overloading
+	3.In scala code is written compact form
+	4.varriables are default immutable type
+
+Java-------------------
+	1.Java is more readable 
+	2.Doesn't support operator overloading
+	3.The code written in long page
+	4.varriable is default mutable type
+
