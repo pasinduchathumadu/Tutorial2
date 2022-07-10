@@ -2,7 +2,7 @@
 //------------------------>Q4.b
 object Main {
   def main(args: Array[String]): Unit = {
-    println("The highest profit:" + profit(15))
+    println("The highest profit:" + profit(25))
   }
   def attendees(price:Int):Int={
     return 120+(15-price)/5*20
