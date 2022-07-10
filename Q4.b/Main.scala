@@ -16,7 +16,7 @@ object Main {
   def profit(price:Int):Int={
     return revenue(price)-cost(price)
   }
-    /* Ticket price is 25 ---- profit=1240
+    /* Ticket price is 25 ---- profit=1260
        Ticket price is 30 ---- profit=1120
        Ticket price is 35 ---- profit=780
        Ticket price is 40 ---- profit=240
