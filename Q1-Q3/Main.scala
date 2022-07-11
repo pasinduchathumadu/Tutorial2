@@ -13,7 +13,7 @@ object Main {
     println(k+12*m)  //62
     println(m/j)           //2
     println(n%j)       //1
-    println(m/(j*j))      //1
+    println(m/j*j)    //4
     println(f+(10*5)+g)        //66.0
     i+=1        //SCALA doesn't support ++i or i++ then we have to use that way
     println(i*n)       //15
